@@ -14,22 +14,27 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Giới thiệu",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "Gioithieu"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Đăng nhập",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "Dangnhap"
+            ]
+          },
+          {
+            "group": "Cấp thiết bị",
+            "pages": [
+              "capthietbi"
+            ]
+          },
+          {
+            "group": "Trả thiết bị",
+            "pages": [
+              "trathietbi"
             ]
           }
         ]
